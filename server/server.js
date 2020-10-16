@@ -1,3 +1,7 @@
+//prima cosa mkdir verifica
+//seconda cosa npm init
+
+
 // Get dependencies
 const express = require('express');
 const path = require('path');
